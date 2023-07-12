@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "oak/": "https://deno.land/x/oak@v12.6.0/",
+    "mongodb": "npm:mongodb@5.7.0",
+    "std/": "https://deno.land/std@0.188.0/",
+    "superoak/": "https://deno.land/x/superoak@4.7.0/"
+  }
+}
