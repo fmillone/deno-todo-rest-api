@@ -19,6 +19,6 @@ run tests: `deno test --allow-net`
 ### Todo:
 
 * dockerize
-* integration tests for the service layer
+* integration tests for the persistence layer
 * add devcontainer
 * add docker-compose config
